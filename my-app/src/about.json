@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "user": "Shaxriyor",
+      "fullname": "Turgunboyev Shaxriyor",
+      "login": "shaxriyor@gmail.com",
+      "password": "12345678",
+      "about": "My name is shaxriyor , my job is programmer , my hobbiy is playing game and kompuyuter game"
+    },
+    {
+      "id": 2,
+      "user": "Suxrob",
+      "fullname": "info",
+      "login": "shaxriyor@gmail.com",
+      "password": "12345678",
+      "about": "My name is shaxriyor , my job is programmer , my hobbiy is playing game and kompuyuter game"
+    },
+    {
+      "id": 3,
+      "user": "Abdulaziz",
+      "fullname": "info",
+      "login": "shaxriyor@gmail.com",
+      "password": "12345678",
+      "about": "My name is shaxriyor , my job is programmer , my hobbiy is playing game and kompuyuter game"
+    },
+    {
+      "id": 4,
+      "user": "Javohir",
+      "fullname": "info",
+      "login": "shaxriyor@gmail.com",
+      "password": "12345678",
+      "about": "My name is shaxriyor , my job is programmer , my hobbiy is playing game and kompuyuter game"
+    }
+  ]
+  
